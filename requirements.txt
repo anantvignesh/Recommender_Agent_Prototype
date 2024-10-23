@@ -1,0 +1,17 @@
+pandas
+langchain
+openai
+tiktoken
+langchain
+langchain-core
+langchain-community
+langchain_experimental
+langchain-openai
+langchainhub
+bs4
+nest_asyncio
+jupyterlab
+autogen
+langgraph
+chainlit
+tavily-python
